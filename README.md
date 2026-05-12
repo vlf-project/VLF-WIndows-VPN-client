@@ -5,6 +5,19 @@ Windows VPN client with subscription support, flexible routing, deep-link import
 - Windows Releases: https://github.com/skalover32-a11y/VLF-WIndows-VPN-client/releases
 - Website: https://www.vlf-project.tech/
 
+## Security, Privacy and Transparency
+
+This repository is part of the VLF ecosystem. The following documents describe the security, privacy, architecture and audit-readiness status of this component:
+
+- [Security Policy](./SECURITY.md)
+- [Privacy Overview](./PRIVACY.md)
+- [Architecture](./ARCHITECTURE.md)
+- [Audit Status](./AUDIT.md)
+- [Threat Model](./THREAT_MODEL.md)
+- [Changelog](./CHANGELOG.md)
+
+Please note: A formal independent third-party security audit has not yet been completed unless explicitly stated in `AUDIT.md`.
+
 ---
 
 ## EN
