@@ -2,7 +2,7 @@
 
 Windows VPN client with subscription support, flexible routing, deep-link import, and built-in auto-update.
 
-- Windows Releases: https://github.com/skalover32-a11y/VLF-WIndows-VPN-client/releases
+- Windows Releases: https://github.com/vlf-project/VLF-WIndows-VPN-client/releases
 - Website: https://www.vlf-project.tech/
 
 ---
